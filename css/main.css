@@ -1,1 +1,107 @@
 /* Los estilos de tu proyecto */
+body{
+	margin:0;
+	padding: 0;
+}
+.navbar{
+	margin-top: 0;
+ }
+.fondo{
+	height: 100vh;
+	background-image: url(../assets/images/taxi.jpg);
+	background-position: bottom;
+	background-size: cover;
+}
+.inicio{
+	background-color:transparent;
+	border: none;
+}
+.contenedor{
+	color: #fff;
+	background-color: #fbbe14;
+	padding: 2%;
+	margin-top: 15%;
+}
+.logo_white{
+	width: 18%;
+	padding:1%;
+}
+.collapse li a {
+	color:#000;
+}
+.fondo-phono{
+	background-color: #fbbe14;
+	padding: 3% 1%;
+}
+.borde-color{
+	margin-top:2%;
+	border: 1px solid;
+	color: #fff;
+}
+.img-phono{
+	padding: 10%;
+}
+.text{
+	padding-top: 6%;
+}
+.conduce{
+	background-image: url(../assets/images/conduce.jpg);
+	background-position: center-block;
+	background-size: cover;
+	height: 65vh;
+
+}
+.contenedor-conduce{
+	background-color:rgba(0,0,0,0.5);
+	padding:5% 1%;
+	color: #fff;
+	height: 65vh;
+
+
+}
+.cont-ruta{
+	padding:5%;
+}
+.map{
+	background-color: #fbbe14;
+}
+.tarifas{
+	margin:5%;
+}
+.contenedor-map{
+	color:#fff;
+	border: 1px solid;
+	padding: 1%,
+
+}
+footer{
+	background-color: #000;
+}
+h5 a{
+	color: #fff;
+	text-decoration: none
+}
+.img-footer{
+	padding-top: 7%;
+}
+.iconos{
+	margin-top:15%; 
+	color: white;
+}
+.btn2{
+	background-color: #fbbe14; 
+}
+.input-group{
+	padding-bottom: 3vh;
+}
+.input{
+	background-color: transparent;
+	border:none;
+}
+.cont_dos{
+	margin-top: 25%;
+}
+.avatar{
+	width:30%;
+	margin-left: 33%;
+}
